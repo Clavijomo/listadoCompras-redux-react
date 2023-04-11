@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de piña",
+      "precio": 3500,
+      "id": 9
+    },
+    {
+      "nombre": "Jugo de maracuyá ",
+      "precio": 2000,
+      "id": 11
+    },
+    {
+      "nombre": "Apple Music Premium",
+      "precio": 32333,
+      "id": 13
+    }
+  ]
+}
